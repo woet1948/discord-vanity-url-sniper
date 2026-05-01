@@ -1,1 +1,1 @@
-kafam gibi var yüksek lisans
+@woet.mjs
