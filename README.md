@@ -1,1 +1,0 @@
-# discord-vanity-url-sniper
